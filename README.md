@@ -1,8 +1,7 @@
-# IT3040 – ITPM Assignment 1: Option 2
 ## Functional and Usability Testing of PixelsSuite
 
 ### Overview
-This project contains the automated and manual test artifacts for the functional and usability testing of [PixelsSuite](https://www.pixelssuite.com/).
+This project contains the automated and manual test artifacts for the functional and usability testing of [PixelsSuite](https://www.pixelssuite.com/). A software testing project developed for the Information Technology Project Management (ITPM) module, focusing on functional and usability testing of the PixelsSuite application.
 
 ### Project Structure
 - `image_preview_test.py`: Playwright script to automate the preview functionality test.
@@ -64,6 +63,3 @@ The `Manual Test Cases for Option 2.xlsx` file contains 50 scenarios covering 10
 
 Each feature includes at least one positive and two negative test cases.
 
-### Git Repository
-Public repository link: https://github.com/NipuniPrabodhya/ITPM-Assignment-01-
-*(Note: Ensure the repository is publicly accessible as per assignment requirements.)*
